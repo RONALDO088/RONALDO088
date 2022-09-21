@@ -8,3 +8,4 @@
 RONALDO088/RONALDO088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+olá eu sou Vinicus ,atualmente estou aprendendo sobre o github na aula de Pensamento computacional. procuro colaborar me esfoçando mais na aula de P.C.
